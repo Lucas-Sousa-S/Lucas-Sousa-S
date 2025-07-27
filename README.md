@@ -7,7 +7,7 @@
 ##
 
 - 👨🏾‍💻 Hoje atuo como Scrum Master
-- 🤖 Estudando Verilog, Python, C/C++ e PHP
+- 🤖 Estudando Verilog, Python, Java, C/C++ e PHP
 - 📚 Interesse em Sistemas embarcados, UVM, Wearables, SQL, C, Python, Java, HPC e gestão de projetos.
 - 🏋🏾‍♂️ O sucesso é a soma de pequenos esforços repetidos dia após dia…
 - 🥗 Adquirindo bons hábitos

@@ -6,11 +6,10 @@
 
 ##
 
-- 👨🏾‍💻 Hoje atuo como Scrum Master
+- 👨🏾‍💻 Aspirante a engenheiro de desenvolvimento de hardware
 - 🤖 Estudando Verilog, Python, Java, JavaScript, C/C++ e PHP
 - 📚 Interesse em Sistemas embarcados, UVM, Wearables, SQL, C, Python, Java, HPC e gestão de projetos.
 - 🏋🏾‍♂️ O sucesso é a soma de pequenos esforços repetidos dia após dia…
-- 🥗 Adquirindo bons hábitos
 - 🚀 Entre em contato comigo: lucas.sousa.s@icloud.com ou nas redes abaixo
   
 ##

@@ -14,7 +14,7 @@
 - 🚀 Entre em contato comigo: lucas.sousa.s@icloud.com ou nas redes abaixo
   
 ##
- <div> 
+ <div align="center"> 
  	<a href="https://www.twitch.tv/ucassousarider" target="_blank"><img src="https://img.shields.io/badge/Twitch-00bfbf?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.sousa.s@icloud.com "><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=00bfbf" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-sousa-6595351b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

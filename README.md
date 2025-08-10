@@ -34,9 +34,10 @@
   <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Sousa-S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="135" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-S&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&hide_border=false&theme=transparent&title_color=00bfbf&text_color=00bfbf&icon_color=00bfbf&bg_color=00000000" height="135" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Sousa-S&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&title_color=00bfbf&text_color=00bfbf&icon_color=00bfbf&bg_color=00000000&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-S&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&hide_border=false&theme=transparent&title_color=00bfbf&text_color=00bfbf&icon_color=00bfbf&bg_color=00000000" height="135" alt="languages graph" />
 </div>
+
 
 
   <div align="center">

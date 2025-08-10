@@ -1,12 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Aqui+é+o+Lucas+Sousa;university+student+:%29)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Aqui+é+o+Lucas+Sousa;Aspiring+Hardware+Development+Engineer+)](https://git.io/typing-svg) 
 
 ##
-
-- 👨🏾‍💻 Aspiring Hardware Development Engineer
+- 👨🏾‍💻 Graduando em Engenharia de Computação pela UFSCar
 - 🤖 Estudando Verilog, Python, Java, JavaScript, C/C++ e PHP
 - 📚 Interesse em Sistemas embarcados, UVM, Wearables, SQL, C, Python, Java, HPC e gestão de projetos.
 - 🏋🏾‍♂️ O sucesso é a soma de pequenos esforços repetidos dia após dia…
@@ -38,17 +35,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Sousa-S&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&hide_border=false&theme=transparent&title_color=00bfbf&text_color=00bfbf&icon_color=00bfbf&bg_color=00000000" height="135" alt="languages graph" />
 </div>
 
-
-
   <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas-Sousa-S.Lucas-Sousa-S&left_color=cyan&right_color=00bfbf"  />
   </div>
 </details>
 
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-

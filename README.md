@@ -12,7 +12,7 @@
 >   "O sucesso é a soma de pequenos esforços repetidos dia após dia…"
 
 ## 🛠️ Habilidades & Tecnologias
-
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -36,6 +36,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## 🚀 Principais Áreas de Interesse
 -   **Sistemas Embarcados & IoT:** Desenvolver a inteligência por trás dos dispositivos do dia a dia.

@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Lucas+Sousa;Engenheiro+de+Computação+em+formação;Apaixonado+por+Hardware+e+Sistemas+Embarcados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Lucas+Sousa;Engenheiro+de+Computação+em+formação;Hardare+computer+engineer)](https://git.io/typing-svg)
 
 ###
 
@@ -44,8 +44,9 @@
 -   **Tecnologias Vestíveis (Wearables):** Unir hardware e bem-estar em dispositivos inovadores.
 -   **Gestão de Projetos:** Orquestrar o ciclo de vida do desenvolvimento de produtos.
 
-## 🌐 Vamos Conectar?
+<p align="center">
 Entre em contato! Vamos trocar ideias e construir algo incrível juntos.
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-sousa-6595351b8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
